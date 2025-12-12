@@ -12,6 +12,7 @@
   "dependencies": [
     "base >= 2.0.69",
     "fdsl >= 0.2.1",
+    "resource-registry >= 0.1.0",
     "? space-age",
     "? crushing-industry >= 0.4.13",
     "? bztin",
